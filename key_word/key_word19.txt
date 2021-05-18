@@ -1,0 +1,6 @@
+Social Information Retrieval
+Social Book Search
+Document Length Normalization
+User-Generated Content
+Tag Based Model
+Review Based Model

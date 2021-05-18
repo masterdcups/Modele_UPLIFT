@@ -1,0 +1,6 @@
+Full-text search engine
+Mobile computing
+FTS3
+Health information
+Tf-Idf
+Vector space model

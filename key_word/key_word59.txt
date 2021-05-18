@@ -1,0 +1,6 @@
+Information Retrieval
+SMS based Information System
+Vactor Space Model
+Minimum Edit Distance
+Noisy Query
+Transliterated Search

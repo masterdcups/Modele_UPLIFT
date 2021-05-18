@@ -1,0 +1,5 @@
+personality profiling
+user profiling
+social networks
+temporal data
+LSTM

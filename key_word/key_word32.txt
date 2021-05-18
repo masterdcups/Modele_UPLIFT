@@ -1,0 +1,4 @@
+Sentiment Analysis
+Sentiment Lexicon
+Polarity Classification
+Extreme Opinions

@@ -1,0 +1,3 @@
+Contextualization
+Automatic summarization
+Informativeness

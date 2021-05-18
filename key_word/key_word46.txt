@@ -1,0 +1,4 @@
+Feature selection
+Authorship attribution
+Effectiveness
+General Versatility
